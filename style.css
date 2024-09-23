@@ -1,0 +1,27 @@
+div{
+    background-color: lightgrey;
+    margin: 20px;
+}
+#title{
+    background-color: yellow;
+    color: blue;
+    margin: 5px;
+}
+body{
+    background-image: url(./img/showcase.jpg);
+}
+h1{
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    text-align: center;
+    
+}
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
